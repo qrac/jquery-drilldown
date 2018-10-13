@@ -1,5 +1,5 @@
 {
-  "name": "jquery-drilldown",
+  "name": "@qrac/jquery-drilldown",
   "version": "1.1.1",
   "main": "dist/jquery.drilldown.js",
   "author": "Aleksandras Nelkinas <alex@cinamonas.io>",
